@@ -1,9 +1,8 @@
 {
-    "is_update_available": false,
-    "app_link" : "",
-    "app_version": "",
+    "latest_app_version": "",
+    "latest_app_link": "",
     "previous_versions": {
-        "app_version" : "1.2.3",
+        "app_version": "1.2.3",
         "app_link": ""
     }
 }
