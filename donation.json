@@ -1,5 +1,6 @@
 [{
         "organisation": "Central Govt, India",
+        "state": "",
         "account_name": "PM Cares",
         "account_number": "2121PM20202",
         "IFSC_code": "SBIN0000691",
@@ -8,11 +9,11 @@
     },
     {
         "organisation": "India",
+        "state": "Odisha",
         "account_name": "PM Cares",
         "account_number": "2121PM20202",
         "IFSC_code": "SBIN0000691",
         "upi": "pmcares@sbi",
         "bank": "State Bank of India, New Delhi main branch"
-
     }
 ]
