@@ -1,24 +1,262 @@
-[
-    {
+[{
         "id": 0,
         "state": "",
-        "helplines" : [
-            "08662410978"
+        "helplines": [
+            "+91-11-23978046"
         ]
     },
     {
         "id": 1,
         "state": "Andhra Pradesh",
-        "helplines" : [
-            "08662410978"
+        "helplines": [
+            "0866-2410978"
         ]
     },
     {
         "id": 2,
         "state": "Arunachal Pradesh",
-        "helplines" : [
-            "9436055743",
+        "helplines": [
+            "9436055743"
+        ]
+    },
+    {
+        "id": 3,
+        "state": "Assam",
+        "helplines": [
             "6913347770"
+        ]
+    },
+    {
+        "id": 4,
+        "state": "Bihar",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 5,
+        "state": "Chhattisgarh",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 6,
+        "state": "Goa",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 7,
+        "state": "Gujarat",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 8,
+        "state": "Haryana",
+        "helplines": [
+            "8558893911"
+        ]
+    },
+    {
+        "id": 9,
+        "state": "Himachal Pradesh",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 10,
+        "state": "Jharkhand",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 11,
+        "state": "Karnataka",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 12,
+        "state": "Kerala",
+        "helplines": [
+            "0471-2552056"
+        ]
+    },
+    {
+        "id": 13,
+        "state": "Madhya Pradesh",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 14,
+        "state": "Maharashtra",
+        "helplines": [
+            "020-26127394"
+        ]
+    },
+    {
+        "id": 15,
+        "state": "Manipur",
+        "helplines": [
+            "3852411668"
+        ]
+    },
+    {
+        "id": 16,
+        "state": "Meghalaya",
+        "helplines": [
+            "108"
+        ]
+    },
+    {
+        "id": 17,
+        "state": "Mizoram",
+        "helplines": [
+            "102"
+        ]
+    },
+    {
+        "id": 18,
+        "state": "Nagaland",
+        "helplines": [
+            "7005539653"
+        ]
+    },
+    {
+        "id": 19,
+        "state": "Odisha",
+        "helplines": [
+            "9439994859"
+        ]
+    },
+    {
+        "id": 20,
+        "state": "Punjab",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 21,
+        "state": "Rajasthan",
+        "helplines": [
+            "0141-2225624"
+        ]
+    },
+    {
+        "id": 22,
+        "state": "Sikkim",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 23,
+        "state": "Tamil Nadu",
+        "helplines": [
+            "044-29510500"
+        ]
+    },
+    {
+        "id": 24,
+        "state": "Telangana",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 25,
+        "state": "Tripura",
+        "helplines": [
+            "0381-2315879"
+        ]
+    },
+    {
+        "id": 26,
+        "state": "Uttarakhand",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 27,
+        "state": "Uttar Pradesh",
+        "helplines": [
+            "18001805145"
+        ]
+    },
+    {
+        "id": 27,
+        "state": "West Bengal",
+        "helplines": [
+            "1800313444222",
+            "03323412600"
+        ]
+    },
+    {
+        "id": 28,
+        "state": "Andaman and Nicobar Islands",
+        "helplines": [
+            "03192-232102"
+        ]
+    },
+    {
+        "id": 29,
+        "state": "Chandigarh",
+        "helplines": [
+            "9779558282"
+        ]
+    },
+    {
+        "id": 30,
+        "state": "Dadra and Nagar Haveli and Daman & Diu",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 31,
+        "state": "Delhi",
+        "helplines": [
+            "011-22307145"
+        ]
+    },
+    {
+        "id": 32,
+        "state": "Jammu & Kashmir",
+        "helplines": [
+            "01912520982",
+            "0194-2440283"
+        ]
+    },
+    {
+        "id": 33,
+        "state": "Ladakh",
+        "helplines": [
+            "01982256462"
+        ]
+    },
+    {
+        "id": 34,
+        "state": "Lakshadweep",
+        "helplines": [
+            "104"
+        ]
+    },
+    {
+        "id": 35,
+        "state": "Puducherry",
+        "helplines": [
+            "104"
         ]
     }
 ]
