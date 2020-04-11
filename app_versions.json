@@ -1,12 +1,19 @@
 {
-    "latest_app_version": "1.0.2",
-    "latest_app_link": "https://bit.ly/devsmranjan-covid19-tracker",
-    "latest_app_release_date": "10-04-2020",
-    "previous_versions": [{
+    "latest_app_version": "1.0.3",
+    "latest_app_link": "http://bit.ly/devsmranjan-covid19-tracker",
+    "latest_app_release_date": "11-04-2020",
+    "previous_versions": [
+    {
+        "release_date": "10-04-2020",
+        "app_version": "1.0.2",
+        "app_link": "https://bit.ly/devsmranjan-covid19-tracker"
+    },
+    {
         "release_date": "09-04-2020",
         "app_version": "1.0.1",
         "app_link": "https://bit.ly/devsmranjan-covid19T"
-    }, {
+    },
+    {
         "release_date": "09-04-2020",
         "app_version": "1.0.0",
         "app_link": "https://bit.ly/devsmranjan-covid19T"
