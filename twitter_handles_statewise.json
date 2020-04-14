@@ -4,5 +4,17 @@
     "state_code": "OR",
     "twitter_id": "HFWOdisha",
     "twitter_profile_name": "H & FW Dept Odisha"
+  },
+  {
+    "state" : "Bihar",
+    "state_code": "BR",
+    "twitter_id": "BiharHealthDept",
+    "twitter_profile_name": "Bihar Health Dept"
+  },
+  {
+    "state": "Jharkhand",
+    "state_code": "JH",
+    "twitter_id": "NHM_JHARKHAND",
+    "twitter_profile_name": "NHM Jharkhand"
   }
 ]
