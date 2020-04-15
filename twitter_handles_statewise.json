@@ -6,6 +6,30 @@
     "twitter_profile_name": "H & FW Dept Odisha"
   },
   {
+    "state": "Maharashtra",
+    "state_code": "MH",
+    "twitter_id": "PIBMumbai",
+    "twitter_profile_name": "PIB in Maharashtra"
+  },
+  {
+    "state": "Delhi",
+    "state_code": "DL",
+    "twitter_id": "CMODelhi",
+    "twitter_profile_name": "CMO Delhi"
+  },
+  {
+    "state": "Tamil Nadu",
+    "state_code": "TN",
+    "twitter_id": "NHM_TN",
+    "twitter_profile_name": "National Health Mission"
+  },
+  {
+    "state": "Rajasthan",
+    "state_code": "RJ",
+    "twitter_id": "RajGovOfficial",
+    "twitter_profile_name": "Government of Rajasthan"
+  },
+  {
     "state" : "Bihar",
     "state_code": "BR",
     "twitter_id": "BiharHealthDept",
