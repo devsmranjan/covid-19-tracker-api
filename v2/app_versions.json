@@ -2,9 +2,9 @@
     "latest_app_version": "1.0.4",
     "latest_app_release_date": "11-04-2020",
     "latest_app_links": {
-        "arm64-v8a": "http://bit.ly/devsmranjan-covid19T2",
-        "armeabi-v7a": "http://bit.ly/devsmranjan-covid19T2",
-        "x86_64": "http://bit.ly/devsmranjan-covid19T2"
+        "arm64-v8a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/app.apk?alt=media&token=4db2aba3-39f4-442c-b12b-c50c50140797",
+        "armeabi-v7a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/app.apk?alt=media&token=4db2aba3-39f4-442c-b12b-c50c50140797",
+        "x86_64": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/app.apk?alt=media&token=4db2aba3-39f4-442c-b12b-c50c50140797"
     },
     "previous_versions": [{
         "app_version": "1.0.4",
