@@ -2,9 +2,9 @@
     "latest_app_version": "1.1.5",
     "latest_app_release_date": "12-05-2020",
     "latest_app_links": {
-        "arm64-v8a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/app-arm64-v8a-release.apk?alt=media&token=5de277e0-3e83-4c4f-9fe9-611e592c9da6",
-        "armeabi-v7a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/app-armeabi-v7a-release.apk?alt=media&token=ffd87ba2-fad2-4e4a-8f9f-faec5891e026",
-        "x86_64": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/app-x86_64-release.apk?alt=media&token=7b9a743e-70d2-4d9c-8153-6908ef508e26"
+        "arm64-v8a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-64bit.apk?alt=media&token=29fd34b8-5229-4d03-ae8a-9b8c33f6ff41",
+        "armeabi-v7a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-32bit.apk?alt=media&token=08051bf7-fb10-4465-9ace-7816d3f11395",
+        "x86_64": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-x86_64.apk?alt=media&token=cc238a68-f43c-4bba-a412-43a420260b9c"
     },
     "previous_versions": [{
         "app_version": "1.0.4",
