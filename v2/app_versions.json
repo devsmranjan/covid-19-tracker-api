@@ -1,18 +1,28 @@
 {
-    "latest_app_version": "1.1.5",
-    "latest_app_release_date": "12-05-2020",
+    "latest_app_version": "1.1.6",
+    "latest_app_release_date": "14-05-2020",
     "latest_app_links": {
-        "arm64-v8a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-64bit.apk?alt=media&token=29fd34b8-5229-4d03-ae8a-9b8c33f6ff41",
-        "armeabi-v7a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-32bit.apk?alt=media&token=08051bf7-fb10-4465-9ace-7816d3f11395",
-        "x86_64": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-x86_64.apk?alt=media&token=cc238a68-f43c-4bba-a412-43a420260b9c"
+        "arm64-v8a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-tracker-64bit-v1.1.6.apk?alt=media&token=cab796f1-f573-412d-9fd4-2c8fc0fd6636",
+        "armeabi-v7a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-tracker-32bit-v1.1.6.apk?alt=media&token=ec7dd604-3751-47b2-80ce-efc74745276d",
+        "x86_64": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-tracker-x86_64-v1.1.6.apk?alt=media&token=ad104ab7-2b8e-4b15-843a-cc1420bbad99"
     },
     "previous_versions": [{
-        "app_version": "1.0.4",
-        "release_date": "11-04-2020",
-        "app_links": {
-            "arm64-v8a": "http://bit.ly/devsmranjan-covid19T2",
-            "armeabi-v7a": "http://bit.ly/devsmranjan-covid19T2",
-            "x86_64": "http://bit.ly/devsmranjan-covid19T2"
+            "app_version": "1.1.5",
+            "release_date": "12-05-2020",
+            "app_links": {
+                "arm64-v8a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-64bit.apk?alt=media&token=29fd34b8-5229-4d03-ae8a-9b8c33f6ff41",
+                "armeabi-v7a": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-32bit.apk?alt=media&token=08051bf7-fb10-4465-9ace-7816d3f11395",
+                "x86_64": "https://firebasestorage.googleapis.com/v0/b/covid-19-tracker-4cff5.appspot.com/o/covid19-Tracker-x86_64.apk?alt=media&token=cc238a68-f43c-4bba-a412-43a420260b9c"
+            }
+        },
+        {
+            "app_version": "1.0.4",
+            "release_date": "11-04-2020",
+            "app_links": {
+                "arm64-v8a": "http://bit.ly/devsmranjan-covid19T2",
+                "armeabi-v7a": "http://bit.ly/devsmranjan-covid19T2",
+                "x86_64": "http://bit.ly/devsmranjan-covid19T2"
+            }
         }
-    }]
+    ]
 }
